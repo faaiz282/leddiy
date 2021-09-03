@@ -8,4 +8,4 @@ RGB led dengan blynk APP
 - 3D printed case
 - blynk app
 
-
+untuk install board esp8266 di arduino bisa [kesini](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/)
